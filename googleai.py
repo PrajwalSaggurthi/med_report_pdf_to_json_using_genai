@@ -2,7 +2,7 @@ from dotenv import dotenv_values
 import google.generativeai as genai
 import json
 import PyPDF2 # For text-based PDFs
-import re
+
 # --- Configuration ---
 GOOGLE_API_KEY = dotenv_values('.env').get('GOOGLE_API_KEY')
 genai.configure(api_key=GOOGLE_API_KEY)
@@ -59,8 +59,7 @@ def get_json_From_GEMINI(pdf_path):
 
     # --- Generate with Gemini ---
     response = model.generate_content(prompt)
-    # match = re.search(r'```(.*?)```', response.text, re.DOTALL)
-    # formatted_text = match.group(1)
+ 
     # --- JSON Parsing ---
     text = str(response.text)
     text = text.replace('```','')
