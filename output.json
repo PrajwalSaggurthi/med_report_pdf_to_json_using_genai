@@ -1,0 +1,375 @@
+{
+    "Name": "Mrs. P LALITHA KUMARI",
+    "age": "44 Years",
+    "Gender": "Female",
+    "Registration ID": "230180025106",
+    "Date": "29-Apr-2023",
+    "Tests": [
+        {
+            "Test Name": "CREATININE",
+            "Result1": "0.5",
+            "BIOLOGICAL REFERENCE INTERVAL 1": "0.5 - 1.0",
+            "Units 1": "mg/dL"
+        },
+        {
+            "Test Name": "Glycated Haemoglobin",
+            "Result2": "4.7",
+            "BIOLOGICAL REFERENCE INTERVAL 2": "Non Diabetic             : < 5.6\nPre - Diabetic Range : 5.7 - 6.4\nDiabetic Range          : >/= 6.5",
+            "Units 2": "%"
+        },
+        {
+            "Test Name": "POST LUNCH GLUCOSE",
+            "Result3": "115",
+            "BIOLOGICAL REFERENCE INTERVAL 3": "Normal                  : 100 - 140\nImpaired Glucose Tolerance : 141 - 199\nDiabetes                 : >/= 200",
+            "Units 3": "mg/dL"
+        },
+        {
+            "Test Name": "Triglycerides",
+            "Result4": "105",
+            "BIOLOGICAL REFERENCE INTERVAL 4": "Desirable level   : < 150\nBorderline          : 150 - 199\nHigh                   : 200 - 499\nVery High          : > / = 500",
+            "Units 4": "mg/dL"
+        },
+        {
+            "Test Name": "Total Cholesterol",
+            "Result5": "165",
+            "BIOLOGICAL REFERENCE INTERVAL 5": "Desirable            : < 200\nBorderline high  : 200 - 239\nHigh                   : > / = 240",
+            "Units 5": "mg/dL"
+        },
+        {
+            "Test Name": "LDL Cholesterol",
+            "Result6": "100",
+            "BIOLOGICAL REFERENCE INTERVAL 6": "Optimal             : < 100\nNear optimal     : 100 - 129\nBorderline high : 130 - 159\nHigh                  : 160 - 189\nVery high          : > 190",
+            "Units 6": "mg/dL"
+        },
+        {
+            "Test Name": "HDL Cholesterol",
+            "Result7": "44",
+            "BIOLOGICAL REFERENCE INTERVAL 7": "Desirable level : > 60\nOptimal            : 40 - 59\nUndesriable      : < 40",
+            "Units 7": "mg/dL"
+        },
+        {
+            "Test Name": "VLDL Cholesterol",
+            "Result8": "21",
+            "BIOLOGICAL REFERENCE INTERVAL 8": "< 30",
+            "Units 8": "mg/dL"
+        },
+        {
+            "Test Name": "Total Cholesterol / HDL Cholesterol Ratio",
+            "Result9": "3.8",
+            "BIOLOGICAL REFERENCE INTERVAL 9": "Low risk          : 3.3 - 4.4\nAverage risk    : 4.5 - 7.1\nModerate risk  : 7.2 - 11.0",
+            "Units 9": ""
+        },
+        {
+            "Test Name": "LDL Cholesterol / HDL Cholesterol Ratio",
+            "Result10": "2.3",
+            "BIOLOGICAL REFERENCE INTERVAL 10": "Desirable level : 0.5 - 3.0\nBorderline risk : 3.0 - 6.0\nHigh risk          : > 6.0",
+            "Units 10": ""
+        },
+        {
+            "Test Name": "T3 Total",
+            "Result11": "1.33",
+            "BIOLOGICAL REFERENCE INTERVAL 11": "Non pregnant           : 0.60 - 1.81\nPregnant 1st Trimester             : 0.81 - 1.90\n2nd & 3rd Trimester : 1.0 - 2.60",
+            "Units 11": "ng/mL"
+        },
+        {
+            "Test Name": "T4 Total",
+            "Result12": "11.80",
+            "BIOLOGICAL REFERENCE INTERVAL 12": "Adult         : 3.2 - 12.6\nPregnant    : 6.4 - 10.7",
+            "Units 12": "\u00b5g/dL"
+        },
+        {
+            "Test Name": "TSH - Ultrasensitive",
+            "Result13": "2.319",
+            "BIOLOGICAL REFERENCE INTERVAL 13": "Non pregnant   : 0.55 - 4.78\nPregnant\n1st Trimester     : 0.3 - 4.5\n2nd Trimester    : 0.5 - 4.6\n3rd Trimester     :  0.8 - 5.2",
+            "Units 13": "\u00b5IU/mL"
+        },
+        {
+            "Test Name": "Colour",
+            "Result14": "Pale Yellow",
+            "BIOLOGICAL REFERENCE INTERVAL 14": "Pale Yellow",
+            "Units 14": ""
+        },
+        {
+            "Test Name": "Appearance",
+            "Result15": "Clear",
+            "BIOLOGICAL REFERENCE INTERVAL 15": "Clear",
+            "Units 15": ""
+        },
+        {
+            "Test Name": "Specific Gravity",
+            "Result16": "1.010",
+            "BIOLOGICAL REFERENCE INTERVAL 16": "1.003 - 1.030",
+            "Units 16": ""
+        },
+        {
+            "Test Name": "Reaction/pH",
+            "Result17": "5.0",
+            "BIOLOGICAL REFERENCE INTERVAL 17": "4.6 - 8",
+            "Units 17": ""
+        },
+        {
+            "Test Name": "Protein",
+            "Result18": "Nil",
+            "BIOLOGICAL REFERENCE INTERVAL 18": "Nil-Trace",
+            "Units 18": ""
+        },
+        {
+            "Test Name": "Glucose",
+            "Result19": "Nil",
+            "BIOLOGICAL REFERENCE INTERVAL 19": "Nill",
+            "Units 19": ""
+        },
+        {
+            "Test Name": "Urobilinogen",
+            "Result20": "Negative",
+            "BIOLOGICAL REFERENCE INTERVAL 20": "Negative",
+            "Units 20": ""
+        },
+        {
+            "Test Name": "Bilirubin",
+            "Result21": "Negative",
+            "BIOLOGICAL REFERENCE INTERVAL 21": "Negative",
+            "Units 21": ""
+        },
+        {
+            "Test Name": "Ketones",
+            "Result22": "Negative",
+            "BIOLOGICAL REFERENCE INTERVAL 22": "Negative",
+            "Units 22": ""
+        },
+        {
+            "Test Name": "Nitrites",
+            "Result23": "Negative",
+            "BIOLOGICAL REFERENCE INTERVAL 23": "Negative",
+            "Units 23": ""
+        },
+        {
+            "Test Name": "Pus Cells",
+            "Result24": "1-2",
+            "BIOLOGICAL REFERENCE INTERVAL 24": "0 - 5 ",
+            "Units 24": "cells / HPF"
+        },
+        {
+            "Test Name": "RBC",
+            "Result25": "Nil",
+            "BIOLOGICAL REFERENCE INTERVAL 25": "0 - 2 ",
+            "Units 25": "cells / HPF"
+        },
+        {
+            "Test Name": "Epithelial Cells",
+            "Result26": "1-2",
+            "BIOLOGICAL REFERENCE INTERVAL 26": "0 - 5 ",
+            "Units 26": "cells / HPF"
+        },
+        {
+            "Test Name": "Casts",
+            "Result27": "Nil",
+            "BIOLOGICAL REFERENCE INTERVAL 27": "Nil",
+            "Units 27": ""
+        },
+        {
+            "Test Name": "Crystals",
+            "Result28": "Nil",
+            "BIOLOGICAL REFERENCE INTERVAL 28": "Nil",
+            "Units 28": ""
+        },
+        {
+            "Test Name": "Total Bilirubin",
+            "Result29": "0.8",
+            "BIOLOGICAL REFERENCE INTERVAL 29": "0.3 - 1.2",
+            "Units 29": "mg/dL"
+        },
+        {
+            "Test Name": "Direct Bilirubin",
+            "Result30": "0.1",
+            "BIOLOGICAL REFERENCE INTERVAL 30": "< 0.2",
+            "Units 30": "mg/dL"
+        },
+        {
+            "Test Name": "Indirect Bilirubin",
+            "Result31": "0.7",
+            "BIOLOGICAL REFERENCE INTERVAL 31": "<1.0",
+            "Units 31": "mg/dL"
+        },
+        {
+            "Test Name": "SGPT/ALT",
+            "Result32": "18",
+            "BIOLOGICAL REFERENCE INTERVAL 32": "0 - 35",
+            "Units 32": "U/L"
+        },
+        {
+            "Test Name": "SGOT/AST",
+            "Result33": "21",
+            "BIOLOGICAL REFERENCE INTERVAL 33": "0 - 35",
+            "Units 33": "U/L"
+        },
+        {
+            "Test Name": "Alkaline Phosphatase",
+            "Result34": "54",
+            "BIOLOGICAL REFERENCE INTERVAL 34": "33 - 98",
+            "Units 34": "U/L"
+        },
+        {
+            "Test Name": "Total Protein",
+            "Result35": "7.4",
+            "BIOLOGICAL REFERENCE INTERVAL 35": "6.6 - 8.3",
+            "Units 35": "gm/dL"
+        },
+        {
+            "Test Name": "Albumin",
+            "Result36": "4.2",
+            "BIOLOGICAL REFERENCE INTERVAL 36": "3.5 - 5.2",
+            "Units 36": "gm/dL"
+        },
+        {
+            "Test Name": "Globulin",
+            "Result37": "3.2",
+            "BIOLOGICAL REFERENCE INTERVAL 37": "1.8 - 3.6",
+            "Units 37": "gm/dL"
+        },
+        {
+            "Test Name": "Protein A/G Ratio",
+            "Result38": "1.3",
+            "BIOLOGICAL REFERENCE INTERVAL 38": "0.8 - 2.0",
+            "Units 38": ""
+        },
+        {
+            "Test Name": "Gamma Glutamyl Transferase",
+            "Result39": "32",
+            "BIOLOGICAL REFERENCE INTERVAL 39": "0 - 38",
+            "Units 39": "U/L"
+        },
+        {
+            "Test Name": "Haemoglobin",
+            "Result40": "12.1",
+            "BIOLOGICAL REFERENCE INTERVAL 40": "12.0 - 15.0",
+            "Units 40": "gm/dL"
+        },
+        {
+            "Test Name": "Total RBC Count",
+            "Result41": "4.7",
+            "BIOLOGICAL REFERENCE INTERVAL 41": "3.8 - 4.8",
+            "Units 41": "millions/cumm"
+        },
+        {
+            "Test Name": "Packed Cell Volume / Hematocrit",
+            "Result42": "39.1",
+            "BIOLOGICAL REFERENCE INTERVAL 42": "36.0 - 46.0",
+            "Units 42": "%"
+        },
+        {
+            "Test Name": "MCV",
+            "Result43": "82.7",
+            "BIOLOGICAL REFERENCE INTERVAL 43": "83.0 - 101.0",
+            "Units 43": "fL"
+        },
+        {
+            "Test Name": "MCH",
+            "Result44": "25.7",
+            "BIOLOGICAL REFERENCE INTERVAL 44": "27.0 - 32.0",
+            "Units 44": "pg"
+        },
+        {
+            "Test Name": "MCHC",
+            "Result45": "31.0",
+            "BIOLOGICAL REFERENCE INTERVAL 45": "31.5 - 34.5",
+            "Units 45": "gm/dL"
+        },
+        {
+            "Test Name": "RDW",
+            "Result46": "16.3",
+            "BIOLOGICAL REFERENCE INTERVAL 46": "11.6 - 14.0",
+            "Units 46": "%"
+        },
+        {
+            "Test Name": "Total Leucocytes (WBC) Count",
+            "Result47": "8400",
+            "BIOLOGICAL REFERENCE INTERVAL 47": "4000 - 10000",
+            "Units 47": "Cells/cumm"
+        },
+        {
+            "Test Name": "Neutrophils",
+            "Result48": "60",
+            "BIOLOGICAL REFERENCE INTERVAL 48": "40 - 80",
+            "Units 48": "%"
+        },
+        {
+            "Test Name": "Lymphocytes",
+            "Result49": "31",
+            "BIOLOGICAL REFERENCE INTERVAL 49": "20 - 40",
+            "Units 49": "%"
+        },
+        {
+            "Test Name": "Eosinophils",
+            "Result50": "2",
+            "BIOLOGICAL REFERENCE INTERVAL 50": "1 - 6",
+            "Units 50": "%"
+        },
+        {
+            "Test Name": "Monocytes",
+            "Result51": "7",
+            "BIOLOGICAL REFERENCE INTERVAL 51": "2 - 10",
+            "Units 51": "%"
+        },
+        {
+            "Test Name": "Basophils",
+            "Result52": "0",
+            "BIOLOGICAL REFERENCE INTERVAL 52": "0-2",
+            "Units 52": "%"
+        },
+        {
+            "Test Name": "Absolute Neutrophil Count",
+            "Result53": "5040",
+            "BIOLOGICAL REFERENCE INTERVAL 53": "2000 - 7000",
+            "Units 53": "Cells/cumm"
+        },
+        {
+            "Test Name": "Absolute Lymphocyte Count",
+            "Result54": "2604",
+            "BIOLOGICAL REFERENCE INTERVAL 54": "1000 - 3000",
+            "Units 54": "Cells/cumm"
+        },
+        {
+            "Test Name": "Absolute Eosinophil Count",
+            "Result55": "168",
+            "BIOLOGICAL REFERENCE INTERVAL 55": "20 - 500",
+            "Units 55": "Cells/cumm"
+        },
+        {
+            "Test Name": "Absolute Monocyte Count",
+            "Result56": "588",
+            "BIOLOGICAL REFERENCE INTERVAL 56": "200 - 1000",
+            "Units 56": "Cells/cumm"
+        },
+        {
+            "Test Name": "Platelet Count",
+            "Result57": "282000",
+            "BIOLOGICAL REFERENCE INTERVAL 57": "150000 - 410000",
+            "Units 57": "Cells/cumm"
+        },
+        {
+            "Test Name": "RBC",
+            "Result58": "Normocytic Normochromic with anisocytosis",
+            "BIOLOGICAL REFERENCE INTERVAL 58": "",
+            "Units 58": ""
+        },
+        {
+            "Test Name": "WBC",
+            "Result59": "Normal in morphology, maturity and distribution",
+            "BIOLOGICAL REFERENCE INTERVAL 59": "",
+            "Units 59": ""
+        },
+        {
+            "Test Name": "Platelets",
+            "Result60": "Adequate",
+            "BIOLOGICAL REFERENCE INTERVAL 60": "",
+            "Units 60": ""
+        },
+        {
+            "Test Name": "Fasting Plasma Glucose",
+            "Result61": "102",
+            "BIOLOGICAL REFERENCE INTERVAL 61": "Normal   : 70 - 100\nImpaired Fasting Glucose  : 101 - 125\nDiabetes : >/= 126",
+            "Units 61": "mg/dL"
+        }
+    ]
+}
